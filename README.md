@@ -1,7 +1,7 @@
 # Addition Calculator
 
 Welcome!
-This is my Backend development project using JavaScript and nodeJS. This just adds two numbers given by the user.
+This is my Backend development project using HTML, JavaScript and nodeJS. This just adds two numbers given by the user.
 
 To run this program:
 
